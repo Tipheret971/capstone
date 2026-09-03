@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: b22eeb83c93434049875d586108909c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3054124609899727803
+    second: cave-Photoroom_0
+  - first:
+      213: 6533605945117604802
+    second: cave-Photoroom_1
+  - first:
+      213: 5995170019664177181
+    second: cave-Photoroom_2
+  - first:
+      213: -5209268118458727246
+    second: cave-Photoroom_3
+  - first:
+      213: -6360870584724583272
+    second: cave-Photoroom_4
+  - first:
+      213: -3352916561974666933
+    second: cave-Photoroom_5
+  - first:
+      213: -1958778192111959888
+    second: cave-Photoroom_6
+  - first:
+      213: 7483743616147702039
+    second: cave-Photoroom_7
+  - first:
+      213: 4384386231664040457
+    second: cave-Photoroom_8
+  - first:
+      213: 3926946416006538913
+    second: cave-Photoroom_9
+  - first:
+      213: -496781408763590653
+    second: cave-Photoroom_10
+  - first:
+      213: 4898778572088362866
+    second: cave-Photoroom_11
+  - first:
+      213: -2441631969688942495
+    second: cave-Photoroom_12
+  - first:
+      213: -7146253638878915550
+    second: cave-Photoroom_13
+  - first:
+      213: 1151502449125869373
+    second: cave-Photoroom_14
+  - first:
+      213: 6874263593583463330
+    second: cave-Photoroom_15
+  - first:
+      213: 1045359559888847362
+    second: cave-Photoroom_16
+  - first:
+      213: -840217242304800975
+    second: cave-Photoroom_17
+  - first:
+      213: -4942866488301001606
+    second: cave-Photoroom_18
+  - first:
+      213: 2247207475732364081
+    second: cave-Photoroom_19
+  - first:
+      213: -1994557262781532499
+    second: cave-Photoroom_20
+  - first:
+      213: -9099901745481105897
+    second: cave-Photoroom_21
+  - first:
+      213: 6154702623338197969
+    second: cave-Photoroom_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1066
+        width: 375
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb0ad8b62e626a20800000000000000
+      internalID: 3054124609899727803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1067
+        width: 183
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb7d159df70caa50800000000000000
+      internalID: 6533605945117604802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1067
+        width: 174
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18a72e7e5f133350800000000000000
+      internalID: 5995170019664177181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 859
+        width: 171
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b400830f36f4b7b0800000000000000
+      internalID: -5209268118458727246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 860
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c824f87e5a9b7a0800000000000000
+      internalID: -6360870584724583272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 860
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49d9f1c62c0871d0800000000000000
+      internalID: -3352916561974666933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 874
+        width: 148
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b08261cc9501d4e0800000000000000
+      internalID: -1958778192111959888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 653
+        width: 178
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711c4961b299bd760800000000000000
+      internalID: 7483743616147702039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 653
+        width: 170
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ad2785c0878dc30800000000000000
+      internalID: 4384386231664040457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 653
+        width: 166
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a62012a5f05f7630800000000000000
+      internalID: 3926946416006538913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 653
+        width: 163
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308c0a7d0f31b19f0800000000000000
+      internalID: -496781408763590653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 451
+        width: 175
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2774f9e0825fbf340800000000000000
+      internalID: 4898778572088362866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 447
+        width: 166
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168047ee8a49d1ed0800000000000000
+      internalID: -2441631969688942495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 447
+        width: 161
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22497cb8d2863dc90800000000000000
+      internalID: -7146253638878915550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 453
+        width: 120
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c3266065faff00800000000000000
+      internalID: 1151502449125869373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 264
+        width: 165
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab41f3215a466f50800000000000000
+      internalID: 6874263593583463330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 264
+        width: 165
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202cbbd2bfcd18e00800000000000000
+      internalID: 1045359559888847362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 263
+        width: 172
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137934aaed2f654f0800000000000000
+      internalID: -840217242304800975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 264
+        width: 182
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74e2a80e19676bb0800000000000000
+      internalID: -4942866488301001606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 68
+        width: 172
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b31affa4faf2f10800000000000000
+      internalID: 2247207475732364081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 72
+        width: 165
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da63bb3bcb8e154e0800000000000000
+      internalID: -1994557262781532499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 76
+        width: 173
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e34a96397a6b180800000000000000
+      internalID: -9099901745481105897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 74
+        width: 187
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3fc3a4d65e96550800000000000000
+      internalID: 6154702623338197969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave-Photoroom_0: 3054124609899727803
+      cave-Photoroom_1: 6533605945117604802
+      cave-Photoroom_10: -496781408763590653
+      cave-Photoroom_11: 4898778572088362866
+      cave-Photoroom_12: -2441631969688942495
+      cave-Photoroom_13: -7146253638878915550
+      cave-Photoroom_14: 1151502449125869373
+      cave-Photoroom_15: 6874263593583463330
+      cave-Photoroom_16: 1045359559888847362
+      cave-Photoroom_17: -840217242304800975
+      cave-Photoroom_18: -4942866488301001606
+      cave-Photoroom_19: 2247207475732364081
+      cave-Photoroom_2: 5995170019664177181
+      cave-Photoroom_20: -1994557262781532499
+      cave-Photoroom_21: -9099901745481105897
+      cave-Photoroom_22: 6154702623338197969
+      cave-Photoroom_3: -5209268118458727246
+      cave-Photoroom_4: -6360870584724583272
+      cave-Photoroom_5: -3352916561974666933
+      cave-Photoroom_6: -1958778192111959888
+      cave-Photoroom_7: 7483743616147702039
+      cave-Photoroom_8: 4384386231664040457
+      cave-Photoroom_9: 3926946416006538913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
